@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&hide_border=true)](https://github.com/vortesnail/)
+[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&hide_border=true&title_color=f58220&icon_color=f58220)](https://github.com/vortesnail/)
 
 🍉 I'm focus on learning more FE konwledges, sometimes learn UE4.
