@@ -13,4 +13,4 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true)](https://github.com/vortesnail/)
 
-I'm focus on learning more FE konwledges, sometimes learn UE4.
+🍉 I'm focus on learning more FE konwledges, sometimes learn UE4.
