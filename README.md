@@ -11,6 +11,17 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
+### I'm working on
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
+
+### My Github Actions
 [![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&hide_border=true&title_color=f58220&icon_color=f58220)](https://github.com/vortesnail/)
 
-🍉 I'm focus on learning more FE konwledges, sometimes learn UE4.
+### About me
+🍉 I'm focus on learning more FE konwledges, sometimes UE4.
