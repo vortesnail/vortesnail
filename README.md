@@ -25,4 +25,5 @@ https://github.com/anuraghazra/github-readme-stats
 [![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&hide_border=true&title_color=f58220&icon_color=f58220)](https://github.com/vortesnail/)
 
 ### About me
-🍉 I'm focus on learning more FE konwledges, sometimes UE4.
+🍉 I'm focusing on learning front-end knowledge, sometimes learning UE4.
+ 
