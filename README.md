@@ -12,4 +12,4 @@ Working for life, coding for love！
 - Contact with me by [email](1091331061@qq.com) or wechat: vortesnail.
 - Follow me on [juejin](https://juejin.cn/user/8451825602654/posts) or [bilibili](https://space.bilibili.com/80755916).
 
-<img style="width: 50px" align="left" src="https://github.com/vortesnail/vortesnail/assets/18679842/1b550d52-2253-446e-a0b6-47bd7282f6ef" alt="typeroom"/> 欢迎大家使用 [typeroom.cn](https://typeroom.cn) ，一个让你简单方便地进行 TypeScript 类型体操的小站 ❤️❤️，题目基于 [type-challenges](https://github.com/type-challenges/type-challenges)，在原题基础上翻译润色，提供对新手友好的题解，云端存储的在线 IDE 环境等~
+<img style="width: 46px" align="left" src="https://github.com/vortesnail/vortesnail/assets/18679842/1b550d52-2253-446e-a0b6-47bd7282f6ef" alt="typeroom"/> 欢迎大家使用 [typeroom.cn](https://typeroom.cn) ，一个让你简单方便地进行 TypeScript 类型体操的小站 ❤️❤️，题目基于 [type-challenges](https://github.com/type-challenges/type-challenges)，在原题基础上翻译润色，提供对新手友好的题解，云端存储的在线 IDE 环境等~
