@@ -1,28 +1,15 @@
-<!--
-**vortesnail/vortesnail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm vortesnail 👋
 
-Here are some ideas to get you started:
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="vortesnail's github stats"/>
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Typescript,Webpack,NodeJS
-- 📫 How to reach me: 1091331061@qq.com
-- 😄 Pronouns: 爱吃胡椒的汤圆
-- 🐙 Hobbies: Movie, Games, 
-https://github.com/anuraghazra/github-readme-stats
--->
+⌨️ A passionate front-end developer who loves coding.  
+🎮 A dedicated gamer with a love for single-player games.  
+📷 Becoming a skilled photographer.
 
-### I'm working on
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%231E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=%1E90FFC&color=%231266C4)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![UE5](https://img.shields.io/badge/-UE4-%23031d30?style=for-the-badge&logo=unreal-engine)
+Working for life, coding for love！
 
-### My Github Actions
-[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&hide_border=true&hide_title=true&icon_color=f58220)](https://github.com/vortesnail/)
+- Read my [blog](https://github.com/vortesnail/blog) to learn more about me.
+- Contact with me by [email](1091331061@qq.com) or wechat: vortesnail.
+- Follow me on [juejin](https://juejin.cn/user/8451825602654/posts) or [bilibili](https://space.bilibili.com/80755916).
 
-### About me
-🍉 I'm focusing on learning front-end knowledge, sometimes learning UE4.
+<img style="width: 50px" align="left" src="https://github.com/vortesnail/vortesnail/assets/18679842/1b550d52-2253-446e-a0b6-47bd7282f6ef" alt="typeroom"/> 欢迎大家使用 [typeroom.cn](https://typeroom.cn) ，一个让你简单方便地进行 TypeScript 类型体操的小站 ❤️❤️，题目基于 [type-challenges](https://github.com/type-challenges/type-challenges)，在原题基础上翻译润色，提供对新手友好的题解，云端存储的在线 IDE 环境等~
