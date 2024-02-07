@@ -2,8 +2,8 @@
 
 <img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=vortesnail&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="vortesnail's github stats"/>
 
-⌨️ A passionate front-end developer who loves coding.  
-🎮 A dedicated gamer with a love for single-player games.  
+⌨️ A passionate front-end developer who enjoys coding.  
+🎮 A dedicated single-player gamer.  
 📷 Becoming a skilled photographer.
 
 Working for life, coding for love！
